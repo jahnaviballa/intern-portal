@@ -96,16 +96,16 @@ function Leaderboard() {
                       </div>
                     </td>
                     <td className="donation-cell">
-                      <span className="donation-amount">${intern.donationsRaised.toLocaleString()}</span>
-                      <div className="progress-container">
+                      <span className="donation-amountt">${intern.donationsRaised.toLocaleString()}</span>
+                      <div className="progress-containerr">
                         <div 
-                          className="progress-bar"
+                          className="progress-barr"
                           style={{ width: `${Math.min(100, (intern.donationsRaised / 5000) * 100)}%` }}
                         ></div>
                       </div>
                     </td>
                     <td className="referral-cell">
-                      <span className="referral-code">{intern.referralCode}</span>
+                      <span className="referral-codee">{intern.referralCode}</span>
                     </td>
                   </tr>
                 ))

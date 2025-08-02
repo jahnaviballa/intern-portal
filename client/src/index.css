@@ -457,27 +457,27 @@ body {
   min-width: 200px;
 }
 
-.donation-amount {
+.donation-amountt {
   font-weight: 600;
   color: #2ecc71;
   margin-bottom: 8px;
   display: inline-block;
 }
 
-.progress-container {
+.progress-containerr {
   height: 8px;
   background-color: #ecf0f1;
   border-radius: 4px;
   overflow: hidden;
 }
 
-.progress-bar {
+.progress-barr {
   height: 100%;
   background-color: #2ecc71;
   border-radius: 4px;
 }
 
-.referral-code {
+.referral-codee {
   font-family: 'Courier New', monospace;
   background-color: #f8f9fa;
   padding: 5px 10px;
