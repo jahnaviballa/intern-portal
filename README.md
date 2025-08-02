@@ -24,10 +24,3 @@ A simple intern dashboard with login, profile view, and leaderboard functionalit
 ### Prerequisites
 - Node.js (v16 or higher)
 - npm or yarn
-
-### Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/jahnaviballa/intern-portal.git
-cd intern-portal
