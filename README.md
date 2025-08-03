@@ -24,3 +24,12 @@ A simple intern dashboard with login, profile view, and leaderboard functionalit
 ### Prerequisites
 - Node.js (v16 or higher)
 - npm or yarn
+
+## Login Page
+![Login](assets/login.png)
+
+## Dashboard
+![Dashboard](assets/dashboard.png)
+
+## Leaderboard
+![Leaderboard](assets/leaderboard.png)
